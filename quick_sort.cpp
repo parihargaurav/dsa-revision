@@ -17,6 +17,7 @@ int partition(vector<int> &arr, int low, int high){
     }
     swap(arr[low], arr[j]);
     return j;
+    
 }
 
 void qs(vector<int> &arr, int low, int high){
