@@ -1,7 +1,10 @@
 // factorial nikalna hai
+
 #include <iostream>
 using namespace std;
+
 // fibonaaci number
+
 int fib(int n)
 {
     if (n < 2)
@@ -10,7 +13,9 @@ int fib(int n)
     }
     return fib(n - 2) + fib(n - 1);
 }
+
 // factorial
+
 int factorial(int n)
 {
     if (n <= 1)
