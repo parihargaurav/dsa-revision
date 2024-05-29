@@ -3,6 +3,8 @@ using namespace std;
 
 // Forward declaration
 // beacause of the favct that the class Complex exists in the code
+
+// classess are custom datatypes
 class Complex;
 
 class Calculator
