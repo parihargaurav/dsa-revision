@@ -47,6 +47,11 @@ int main()
     return 0;
 }
 
+
+// friend function helps to get access the private members of the class outside of it.
+
+
+
 /* Properties of friend functions
 1. Not in the scope of class
 2. since it is not in the scope of the class, it cannot be called from the object of that class. c1.sumComplex() == Invalid
